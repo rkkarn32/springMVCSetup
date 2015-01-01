@@ -7,6 +7,6 @@
 <title>Home</title>
 </head>
 <body>
-You are in the home
+Message: ${message }
 </body>
 </html>
